@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Burc-Rehberi-App</string>
+    <string name="horoscope_name">Horoscope Name</string>
+    <string name="horoscope_date">Horoscope Date</string>
+    <string name="horoscope_image">Horoscope Image</string>
+    <string name="description">Description</string>
+    <string name="title">Title:</string>
+    <string name="app_name_splash">Burç Rehberi</string>
+    <string name="horoscopes_image">Horoscopes Image</string>
+    <string name="explain_internet_connection">Uygulamada devam edebilmek için lütfen internete bağlanıp uygulamayı tekrar açınız.</string>
+</resources>
